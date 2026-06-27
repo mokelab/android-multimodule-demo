@@ -1,4 +1,0 @@
-package com.mokelab.demo.multimodule.model
-
-
-data class Data688(val id: Int)

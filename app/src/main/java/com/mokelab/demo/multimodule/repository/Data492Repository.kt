@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data911
-import com.mokelab.demo.multimodule.model.Data912
-import com.mokelab.demo.multimodule.model.Data913
-import com.mokelab.demo.multimodule.model.Data914
-import com.mokelab.demo.multimodule.model.Data915
-import com.mokelab.demo.multimodule.model.Data916
-import com.mokelab.demo.multimodule.model.Data917
-import com.mokelab.demo.multimodule.model.Data918
-import com.mokelab.demo.multimodule.model.Data919
-import com.mokelab.demo.multimodule.model.Data920
+import com.mokelab.demo.multimodule.core.model.Data911
+import com.mokelab.demo.multimodule.core.model.Data912
+import com.mokelab.demo.multimodule.core.model.Data913
+import com.mokelab.demo.multimodule.core.model.Data914
+import com.mokelab.demo.multimodule.core.model.Data915
+import com.mokelab.demo.multimodule.core.model.Data916
+import com.mokelab.demo.multimodule.core.model.Data917
+import com.mokelab.demo.multimodule.core.model.Data918
+import com.mokelab.demo.multimodule.core.model.Data919
+import com.mokelab.demo.multimodule.core.model.Data920
 
 
 interface Data492Repository {

@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data801
-import com.mokelab.demo.multimodule.model.Data802
-import com.mokelab.demo.multimodule.model.Data803
-import com.mokelab.demo.multimodule.model.Data804
-import com.mokelab.demo.multimodule.model.Data805
-import com.mokelab.demo.multimodule.model.Data806
-import com.mokelab.demo.multimodule.model.Data807
-import com.mokelab.demo.multimodule.model.Data808
-import com.mokelab.demo.multimodule.model.Data809
-import com.mokelab.demo.multimodule.model.Data810
+import com.mokelab.demo.multimodule.core.model.Data801
+import com.mokelab.demo.multimodule.core.model.Data802
+import com.mokelab.demo.multimodule.core.model.Data803
+import com.mokelab.demo.multimodule.core.model.Data804
+import com.mokelab.demo.multimodule.core.model.Data805
+import com.mokelab.demo.multimodule.core.model.Data806
+import com.mokelab.demo.multimodule.core.model.Data807
+import com.mokelab.demo.multimodule.core.model.Data808
+import com.mokelab.demo.multimodule.core.model.Data809
+import com.mokelab.demo.multimodule.core.model.Data810
 
 import javax.inject.Inject
 

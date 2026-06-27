@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data621
-import com.mokelab.demo.multimodule.model.Data622
-import com.mokelab.demo.multimodule.model.Data623
-import com.mokelab.demo.multimodule.model.Data624
-import com.mokelab.demo.multimodule.model.Data625
-import com.mokelab.demo.multimodule.model.Data626
-import com.mokelab.demo.multimodule.model.Data627
-import com.mokelab.demo.multimodule.model.Data628
-import com.mokelab.demo.multimodule.model.Data629
-import com.mokelab.demo.multimodule.model.Data630
+import com.mokelab.demo.multimodule.core.model.Data621
+import com.mokelab.demo.multimodule.core.model.Data622
+import com.mokelab.demo.multimodule.core.model.Data623
+import com.mokelab.demo.multimodule.core.model.Data624
+import com.mokelab.demo.multimodule.core.model.Data625
+import com.mokelab.demo.multimodule.core.model.Data626
+import com.mokelab.demo.multimodule.core.model.Data627
+import com.mokelab.demo.multimodule.core.model.Data628
+import com.mokelab.demo.multimodule.core.model.Data629
+import com.mokelab.demo.multimodule.core.model.Data630
 
 
 interface Data463Repository {

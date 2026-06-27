@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data881
-import com.mokelab.demo.multimodule.model.Data882
-import com.mokelab.demo.multimodule.model.Data883
-import com.mokelab.demo.multimodule.model.Data884
-import com.mokelab.demo.multimodule.model.Data885
-import com.mokelab.demo.multimodule.model.Data886
-import com.mokelab.demo.multimodule.model.Data887
-import com.mokelab.demo.multimodule.model.Data888
-import com.mokelab.demo.multimodule.model.Data889
-import com.mokelab.demo.multimodule.model.Data890
+import com.mokelab.demo.multimodule.core.model.Data881
+import com.mokelab.demo.multimodule.core.model.Data882
+import com.mokelab.demo.multimodule.core.model.Data883
+import com.mokelab.demo.multimodule.core.model.Data884
+import com.mokelab.demo.multimodule.core.model.Data885
+import com.mokelab.demo.multimodule.core.model.Data886
+import com.mokelab.demo.multimodule.core.model.Data887
+import com.mokelab.demo.multimodule.core.model.Data888
+import com.mokelab.demo.multimodule.core.model.Data889
+import com.mokelab.demo.multimodule.core.model.Data890
 
 
 interface Data489Repository {

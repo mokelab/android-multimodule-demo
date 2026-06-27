@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data301
-import com.mokelab.demo.multimodule.model.Data302
-import com.mokelab.demo.multimodule.model.Data303
-import com.mokelab.demo.multimodule.model.Data304
-import com.mokelab.demo.multimodule.model.Data305
-import com.mokelab.demo.multimodule.model.Data306
-import com.mokelab.demo.multimodule.model.Data307
-import com.mokelab.demo.multimodule.model.Data308
-import com.mokelab.demo.multimodule.model.Data309
-import com.mokelab.demo.multimodule.model.Data310
+import com.mokelab.demo.multimodule.core.model.Data301
+import com.mokelab.demo.multimodule.core.model.Data302
+import com.mokelab.demo.multimodule.core.model.Data303
+import com.mokelab.demo.multimodule.core.model.Data304
+import com.mokelab.demo.multimodule.core.model.Data305
+import com.mokelab.demo.multimodule.core.model.Data306
+import com.mokelab.demo.multimodule.core.model.Data307
+import com.mokelab.demo.multimodule.core.model.Data308
+import com.mokelab.demo.multimodule.core.model.Data309
+import com.mokelab.demo.multimodule.core.model.Data310
 
 
 interface Data831Repository {

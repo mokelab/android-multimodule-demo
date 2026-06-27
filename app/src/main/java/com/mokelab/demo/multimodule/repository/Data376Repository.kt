@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data751
-import com.mokelab.demo.multimodule.model.Data752
-import com.mokelab.demo.multimodule.model.Data753
-import com.mokelab.demo.multimodule.model.Data754
-import com.mokelab.demo.multimodule.model.Data755
-import com.mokelab.demo.multimodule.model.Data756
-import com.mokelab.demo.multimodule.model.Data757
-import com.mokelab.demo.multimodule.model.Data758
-import com.mokelab.demo.multimodule.model.Data759
-import com.mokelab.demo.multimodule.model.Data760
+import com.mokelab.demo.multimodule.core.model.Data751
+import com.mokelab.demo.multimodule.core.model.Data752
+import com.mokelab.demo.multimodule.core.model.Data753
+import com.mokelab.demo.multimodule.core.model.Data754
+import com.mokelab.demo.multimodule.core.model.Data755
+import com.mokelab.demo.multimodule.core.model.Data756
+import com.mokelab.demo.multimodule.core.model.Data757
+import com.mokelab.demo.multimodule.core.model.Data758
+import com.mokelab.demo.multimodule.core.model.Data759
+import com.mokelab.demo.multimodule.core.model.Data760
 
 
 interface Data376Repository {

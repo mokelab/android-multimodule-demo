@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data641
-import com.mokelab.demo.multimodule.model.Data642
-import com.mokelab.demo.multimodule.model.Data643
-import com.mokelab.demo.multimodule.model.Data644
-import com.mokelab.demo.multimodule.model.Data645
-import com.mokelab.demo.multimodule.model.Data646
-import com.mokelab.demo.multimodule.model.Data647
-import com.mokelab.demo.multimodule.model.Data648
-import com.mokelab.demo.multimodule.model.Data649
-import com.mokelab.demo.multimodule.model.Data650
+import com.mokelab.demo.multimodule.core.model.Data641
+import com.mokelab.demo.multimodule.core.model.Data642
+import com.mokelab.demo.multimodule.core.model.Data643
+import com.mokelab.demo.multimodule.core.model.Data644
+import com.mokelab.demo.multimodule.core.model.Data645
+import com.mokelab.demo.multimodule.core.model.Data646
+import com.mokelab.demo.multimodule.core.model.Data647
+import com.mokelab.demo.multimodule.core.model.Data648
+import com.mokelab.demo.multimodule.core.model.Data649
+import com.mokelab.demo.multimodule.core.model.Data650
 
 
 interface Data665Repository {

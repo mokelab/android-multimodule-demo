@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data331
-import com.mokelab.demo.multimodule.model.Data332
-import com.mokelab.demo.multimodule.model.Data333
-import com.mokelab.demo.multimodule.model.Data334
-import com.mokelab.demo.multimodule.model.Data335
-import com.mokelab.demo.multimodule.model.Data336
-import com.mokelab.demo.multimodule.model.Data337
-import com.mokelab.demo.multimodule.model.Data338
-import com.mokelab.demo.multimodule.model.Data339
-import com.mokelab.demo.multimodule.model.Data340
+import com.mokelab.demo.multimodule.core.model.Data331
+import com.mokelab.demo.multimodule.core.model.Data332
+import com.mokelab.demo.multimodule.core.model.Data333
+import com.mokelab.demo.multimodule.core.model.Data334
+import com.mokelab.demo.multimodule.core.model.Data335
+import com.mokelab.demo.multimodule.core.model.Data336
+import com.mokelab.demo.multimodule.core.model.Data337
+import com.mokelab.demo.multimodule.core.model.Data338
+import com.mokelab.demo.multimodule.core.model.Data339
+import com.mokelab.demo.multimodule.core.model.Data340
 
 
 interface Data934Repository {

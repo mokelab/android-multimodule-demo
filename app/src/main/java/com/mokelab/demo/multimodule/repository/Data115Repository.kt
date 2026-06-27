@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data141
-import com.mokelab.demo.multimodule.model.Data142
-import com.mokelab.demo.multimodule.model.Data143
-import com.mokelab.demo.multimodule.model.Data144
-import com.mokelab.demo.multimodule.model.Data145
-import com.mokelab.demo.multimodule.model.Data146
-import com.mokelab.demo.multimodule.model.Data147
-import com.mokelab.demo.multimodule.model.Data148
-import com.mokelab.demo.multimodule.model.Data149
-import com.mokelab.demo.multimodule.model.Data150
+import com.mokelab.demo.multimodule.core.model.Data141
+import com.mokelab.demo.multimodule.core.model.Data142
+import com.mokelab.demo.multimodule.core.model.Data143
+import com.mokelab.demo.multimodule.core.model.Data144
+import com.mokelab.demo.multimodule.core.model.Data145
+import com.mokelab.demo.multimodule.core.model.Data146
+import com.mokelab.demo.multimodule.core.model.Data147
+import com.mokelab.demo.multimodule.core.model.Data148
+import com.mokelab.demo.multimodule.core.model.Data149
+import com.mokelab.demo.multimodule.core.model.Data150
 
 
 interface Data115Repository {

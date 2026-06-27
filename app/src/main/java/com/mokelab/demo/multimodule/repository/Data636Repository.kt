@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data351
-import com.mokelab.demo.multimodule.model.Data352
-import com.mokelab.demo.multimodule.model.Data353
-import com.mokelab.demo.multimodule.model.Data354
-import com.mokelab.demo.multimodule.model.Data355
-import com.mokelab.demo.multimodule.model.Data356
-import com.mokelab.demo.multimodule.model.Data357
-import com.mokelab.demo.multimodule.model.Data358
-import com.mokelab.demo.multimodule.model.Data359
-import com.mokelab.demo.multimodule.model.Data360
+import com.mokelab.demo.multimodule.core.model.Data351
+import com.mokelab.demo.multimodule.core.model.Data352
+import com.mokelab.demo.multimodule.core.model.Data353
+import com.mokelab.demo.multimodule.core.model.Data354
+import com.mokelab.demo.multimodule.core.model.Data355
+import com.mokelab.demo.multimodule.core.model.Data356
+import com.mokelab.demo.multimodule.core.model.Data357
+import com.mokelab.demo.multimodule.core.model.Data358
+import com.mokelab.demo.multimodule.core.model.Data359
+import com.mokelab.demo.multimodule.core.model.Data360
 
 
 interface Data636Repository {

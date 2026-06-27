@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data391
-import com.mokelab.demo.multimodule.model.Data392
-import com.mokelab.demo.multimodule.model.Data393
-import com.mokelab.demo.multimodule.model.Data394
-import com.mokelab.demo.multimodule.model.Data395
-import com.mokelab.demo.multimodule.model.Data396
-import com.mokelab.demo.multimodule.model.Data397
-import com.mokelab.demo.multimodule.model.Data398
-import com.mokelab.demo.multimodule.model.Data399
-import com.mokelab.demo.multimodule.model.Data400
+import com.mokelab.demo.multimodule.core.model.Data391
+import com.mokelab.demo.multimodule.core.model.Data392
+import com.mokelab.demo.multimodule.core.model.Data393
+import com.mokelab.demo.multimodule.core.model.Data394
+import com.mokelab.demo.multimodule.core.model.Data395
+import com.mokelab.demo.multimodule.core.model.Data396
+import com.mokelab.demo.multimodule.core.model.Data397
+import com.mokelab.demo.multimodule.core.model.Data398
+import com.mokelab.demo.multimodule.core.model.Data399
+import com.mokelab.demo.multimodule.core.model.Data400
 
 
 interface Data740Repository {

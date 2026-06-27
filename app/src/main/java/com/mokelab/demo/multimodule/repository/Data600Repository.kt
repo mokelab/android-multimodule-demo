@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data991
-import com.mokelab.demo.multimodule.model.Data992
-import com.mokelab.demo.multimodule.model.Data993
-import com.mokelab.demo.multimodule.model.Data994
-import com.mokelab.demo.multimodule.model.Data995
-import com.mokelab.demo.multimodule.model.Data996
-import com.mokelab.demo.multimodule.model.Data997
-import com.mokelab.demo.multimodule.model.Data998
-import com.mokelab.demo.multimodule.model.Data999
-import com.mokelab.demo.multimodule.model.Data000
+import com.mokelab.demo.multimodule.core.model.Data991
+import com.mokelab.demo.multimodule.core.model.Data992
+import com.mokelab.demo.multimodule.core.model.Data993
+import com.mokelab.demo.multimodule.core.model.Data994
+import com.mokelab.demo.multimodule.core.model.Data995
+import com.mokelab.demo.multimodule.core.model.Data996
+import com.mokelab.demo.multimodule.core.model.Data997
+import com.mokelab.demo.multimodule.core.model.Data998
+import com.mokelab.demo.multimodule.core.model.Data999
+import com.mokelab.demo.multimodule.core.model.Data000
 
 
 interface Data600Repository {

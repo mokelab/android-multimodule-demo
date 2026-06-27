@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data701
-import com.mokelab.demo.multimodule.model.Data702
-import com.mokelab.demo.multimodule.model.Data703
-import com.mokelab.demo.multimodule.model.Data704
-import com.mokelab.demo.multimodule.model.Data705
-import com.mokelab.demo.multimodule.model.Data706
-import com.mokelab.demo.multimodule.model.Data707
-import com.mokelab.demo.multimodule.model.Data708
-import com.mokelab.demo.multimodule.model.Data709
-import com.mokelab.demo.multimodule.model.Data710
+import com.mokelab.demo.multimodule.core.model.Data701
+import com.mokelab.demo.multimodule.core.model.Data702
+import com.mokelab.demo.multimodule.core.model.Data703
+import com.mokelab.demo.multimodule.core.model.Data704
+import com.mokelab.demo.multimodule.core.model.Data705
+import com.mokelab.demo.multimodule.core.model.Data706
+import com.mokelab.demo.multimodule.core.model.Data707
+import com.mokelab.demo.multimodule.core.model.Data708
+import com.mokelab.demo.multimodule.core.model.Data709
+import com.mokelab.demo.multimodule.core.model.Data710
 
 
 interface Data171Repository {

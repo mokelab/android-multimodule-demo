@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data031
-import com.mokelab.demo.multimodule.model.Data032
-import com.mokelab.demo.multimodule.model.Data033
-import com.mokelab.demo.multimodule.model.Data034
-import com.mokelab.demo.multimodule.model.Data035
-import com.mokelab.demo.multimodule.model.Data036
-import com.mokelab.demo.multimodule.model.Data037
-import com.mokelab.demo.multimodule.model.Data038
-import com.mokelab.demo.multimodule.model.Data039
-import com.mokelab.demo.multimodule.model.Data040
+import com.mokelab.demo.multimodule.core.model.Data031
+import com.mokelab.demo.multimodule.core.model.Data032
+import com.mokelab.demo.multimodule.core.model.Data033
+import com.mokelab.demo.multimodule.core.model.Data034
+import com.mokelab.demo.multimodule.core.model.Data035
+import com.mokelab.demo.multimodule.core.model.Data036
+import com.mokelab.demo.multimodule.core.model.Data037
+import com.mokelab.demo.multimodule.core.model.Data038
+import com.mokelab.demo.multimodule.core.model.Data039
+import com.mokelab.demo.multimodule.core.model.Data040
 
 
 interface Data404Repository {

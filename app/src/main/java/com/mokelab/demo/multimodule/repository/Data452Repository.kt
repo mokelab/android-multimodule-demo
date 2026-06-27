@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data511
-import com.mokelab.demo.multimodule.model.Data512
-import com.mokelab.demo.multimodule.model.Data513
-import com.mokelab.demo.multimodule.model.Data514
-import com.mokelab.demo.multimodule.model.Data515
-import com.mokelab.demo.multimodule.model.Data516
-import com.mokelab.demo.multimodule.model.Data517
-import com.mokelab.demo.multimodule.model.Data518
-import com.mokelab.demo.multimodule.model.Data519
-import com.mokelab.demo.multimodule.model.Data520
+import com.mokelab.demo.multimodule.core.model.Data511
+import com.mokelab.demo.multimodule.core.model.Data512
+import com.mokelab.demo.multimodule.core.model.Data513
+import com.mokelab.demo.multimodule.core.model.Data514
+import com.mokelab.demo.multimodule.core.model.Data515
+import com.mokelab.demo.multimodule.core.model.Data516
+import com.mokelab.demo.multimodule.core.model.Data517
+import com.mokelab.demo.multimodule.core.model.Data518
+import com.mokelab.demo.multimodule.core.model.Data519
+import com.mokelab.demo.multimodule.core.model.Data520
 
 
 interface Data452Repository {

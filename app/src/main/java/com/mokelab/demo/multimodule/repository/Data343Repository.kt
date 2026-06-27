@@ -1,15 +1,15 @@
 package com.mokelab.demo.multimodule.repository
 
-import com.mokelab.demo.multimodule.model.Data421
-import com.mokelab.demo.multimodule.model.Data422
-import com.mokelab.demo.multimodule.model.Data423
-import com.mokelab.demo.multimodule.model.Data424
-import com.mokelab.demo.multimodule.model.Data425
-import com.mokelab.demo.multimodule.model.Data426
-import com.mokelab.demo.multimodule.model.Data427
-import com.mokelab.demo.multimodule.model.Data428
-import com.mokelab.demo.multimodule.model.Data429
-import com.mokelab.demo.multimodule.model.Data430
+import com.mokelab.demo.multimodule.core.model.Data421
+import com.mokelab.demo.multimodule.core.model.Data422
+import com.mokelab.demo.multimodule.core.model.Data423
+import com.mokelab.demo.multimodule.core.model.Data424
+import com.mokelab.demo.multimodule.core.model.Data425
+import com.mokelab.demo.multimodule.core.model.Data426
+import com.mokelab.demo.multimodule.core.model.Data427
+import com.mokelab.demo.multimodule.core.model.Data428
+import com.mokelab.demo.multimodule.core.model.Data429
+import com.mokelab.demo.multimodule.core.model.Data430
 
 
 interface Data343Repository {
