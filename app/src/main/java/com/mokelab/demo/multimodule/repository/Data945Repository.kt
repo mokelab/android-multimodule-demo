@@ -1,0 +1,27 @@
+package com.mokelab.demo.multimodule.repository
+
+import com.mokelab.demo.multimodule.model.Data441
+import com.mokelab.demo.multimodule.model.Data442
+import com.mokelab.demo.multimodule.model.Data443
+import com.mokelab.demo.multimodule.model.Data444
+import com.mokelab.demo.multimodule.model.Data445
+import com.mokelab.demo.multimodule.model.Data446
+import com.mokelab.demo.multimodule.model.Data447
+import com.mokelab.demo.multimodule.model.Data448
+import com.mokelab.demo.multimodule.model.Data449
+import com.mokelab.demo.multimodule.model.Data450
+
+
+interface Data945Repository {
+    fun get1(): Data441
+    fun get2(): Data442
+    fun get3(): Data443
+    fun get4(): Data444
+    fun get5(): Data445
+    fun get6(): Data446
+    fun get7(): Data447
+    fun get8(): Data448
+    fun get9(): Data449
+    fun get10(): Data450
+
+}

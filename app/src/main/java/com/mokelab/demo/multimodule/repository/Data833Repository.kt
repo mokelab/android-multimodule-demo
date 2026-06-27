@@ -1,0 +1,27 @@
+package com.mokelab.demo.multimodule.repository
+
+import com.mokelab.demo.multimodule.model.Data321
+import com.mokelab.demo.multimodule.model.Data322
+import com.mokelab.demo.multimodule.model.Data323
+import com.mokelab.demo.multimodule.model.Data324
+import com.mokelab.demo.multimodule.model.Data325
+import com.mokelab.demo.multimodule.model.Data326
+import com.mokelab.demo.multimodule.model.Data327
+import com.mokelab.demo.multimodule.model.Data328
+import com.mokelab.demo.multimodule.model.Data329
+import com.mokelab.demo.multimodule.model.Data330
+
+
+interface Data833Repository {
+    fun get1(): Data321
+    fun get2(): Data322
+    fun get3(): Data323
+    fun get4(): Data324
+    fun get5(): Data325
+    fun get6(): Data326
+    fun get7(): Data327
+    fun get8(): Data328
+    fun get9(): Data329
+    fun get10(): Data330
+
+}

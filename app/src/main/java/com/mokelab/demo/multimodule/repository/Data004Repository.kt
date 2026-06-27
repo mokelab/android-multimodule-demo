@@ -1,0 +1,27 @@
+package com.mokelab.demo.multimodule.repository
+
+import com.mokelab.demo.multimodule.model.Data031
+import com.mokelab.demo.multimodule.model.Data032
+import com.mokelab.demo.multimodule.model.Data033
+import com.mokelab.demo.multimodule.model.Data034
+import com.mokelab.demo.multimodule.model.Data035
+import com.mokelab.demo.multimodule.model.Data036
+import com.mokelab.demo.multimodule.model.Data037
+import com.mokelab.demo.multimodule.model.Data038
+import com.mokelab.demo.multimodule.model.Data039
+import com.mokelab.demo.multimodule.model.Data040
+
+
+interface Data004Repository {
+    fun get1(): Data031
+    fun get2(): Data032
+    fun get3(): Data033
+    fun get4(): Data034
+    fun get5(): Data035
+    fun get6(): Data036
+    fun get7(): Data037
+    fun get8(): Data038
+    fun get9(): Data039
+    fun get10(): Data040
+
+}
