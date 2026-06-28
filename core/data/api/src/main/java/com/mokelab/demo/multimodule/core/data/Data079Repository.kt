@@ -1,0 +1,27 @@
+package com.mokelab.demo.multimodule.core.data
+
+import com.mokelab.demo.multimodule.core.model.Data781
+import com.mokelab.demo.multimodule.core.model.Data782
+import com.mokelab.demo.multimodule.core.model.Data783
+import com.mokelab.demo.multimodule.core.model.Data784
+import com.mokelab.demo.multimodule.core.model.Data785
+import com.mokelab.demo.multimodule.core.model.Data786
+import com.mokelab.demo.multimodule.core.model.Data787
+import com.mokelab.demo.multimodule.core.model.Data788
+import com.mokelab.demo.multimodule.core.model.Data789
+import com.mokelab.demo.multimodule.core.model.Data790
+
+
+interface Data079Repository {
+    fun get1(): Data781
+    fun get2(): Data782
+    fun get3(): Data783
+    fun get4(): Data784
+    fun get5(): Data785
+    fun get6(): Data786
+    fun get7(): Data787
+    fun get8(): Data788
+    fun get9(): Data789
+    fun get10(): Data790
+
+}

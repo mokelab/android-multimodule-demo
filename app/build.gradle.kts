@@ -42,7 +42,17 @@ android {
 }
 
 dependencies {
-    implementation(project(":core:model"))
+    implementation(project(":core:data:impl"))
+    implementation(project(":feature:feature1:impl"))
+    implementation(project(":feature:feature2:impl"))
+    implementation(project(":feature:feature3:impl"))
+    implementation(project(":feature:feature4:impl"))
+    implementation(project(":feature:feature5:impl"))
+    implementation(project(":feature:feature6:impl"))
+    implementation(project(":feature:feature7:impl"))
+    implementation(project(":feature:feature8:impl"))
+    implementation(project(":feature:feature9:impl"))
+    implementation(project(":feature:feature10:impl"))
 
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
